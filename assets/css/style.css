@@ -1,3 +1,4 @@
+/* HTML Selector based Styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -17,9 +18,13 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Combined header and footer font-family into one style listing */
 header, footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+/* Styles for the header section */
 header {
     padding: 20px;   
     background-color: #2a607c;
@@ -35,10 +40,12 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation styles */
 nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
+    /* Different font family than the font used in header. Had to define it here to override the inheritance. */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -52,12 +59,14 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* Main section styles */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styles for the sections of the Main section */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -75,6 +84,7 @@ main section h2 {
     font-size: 36px;
 }
 
+/* Styles for the Aside section (sidebar) */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -85,6 +95,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* Styles for each article section of the aside section */
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +112,7 @@ aside article img {
     max-width: 150px;
 }
 
+/* Footer styles */
 footer {
     padding: 30px;
     clear: both;
@@ -111,6 +123,10 @@ footer h2 {
     font-size: 20px;
 }
 
+
+/* Helper classes for styles */
+
+/* Hero class to define the large image after the header section */
 .hero {
     height: 800px;
     width: 100%;
@@ -120,6 +136,7 @@ footer h2 {
     background-position: center;
 }
 
+/* The float-left and float-right classes are used in the main section to arrange the images to the left or to the right of the text */
 .float-left {
     float: left;
     margin-right: 25px;
