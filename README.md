@@ -23,6 +23,8 @@ I learned proper HTML coding and develop websites with accessibility in mind.  I
 Below is a screenshot of the completed website. 
 ![Screenshot of the completed Horiseon Online Marketing website.](/assets/images/CompletedScreenshot.png)
 
+Link to the deployed website is here:  https://azukicoconut.github.io/02-Challenge/
+
 ## Credits
 In the refactoring of this website I used the following resources
 
