@@ -5,9 +5,9 @@ Bootcamp Week 1 Challenge
 This is the solution provided by Matthew Tingley for the UNB Coding Bootcamp Challenge for week 1.  
 The purpose of this project was to take an existing website for Horiseon Online Marketing and refactor the code to take into consideration accessibility for people with disabilities.  Accessible websites make it easier for people with diabilities to use assistive technologies such as screen readers, video captions and braille keyboards. 
 The following summarizes the changes made to make this site more accessible:
-  * Removed <div> tags infavour of more semantic HTML such as <header>, <nav>, <main>, <section>, <aside>, <article> and <footer>
+  * Removed div tags infavour of more semantic HTML such as header, nav, main, section, aside, article and footer.
   * Added the alt attribute with descriptive text to give a description of the image that is meaningful to the user using assistive technology
-  * Added a more descriptive webpage title in the <head> section.
+  * Added a more descriptive webpage title in the head section.
 
 In addition to converting this website to be more accessible, I also took a run through the HTML code and CSS style classes and performed the following changes:
   * Ensured all links are working, one was identified and corrected
@@ -20,4 +20,15 @@ In addition to converting this website to be more accessible, I also took a run 
 I learned proper HTML coding and develop websites with accessibility in mind.  I learned the importance of having an organized CSS file so that one could find styles quickly and easily.  I also learned how to look at someone elses code and find ways to make it better.  
 
 ## Usage
+Below is a screenshot of the completed website. 
+![Screenshot of the completed Horiseon Online Marketing website.](/assets/images/CompletedScreenshot.png)
 
+## Credits
+In the refactoring of this website I used the following resources
+
+HTML Semantic Elements by w3schools - https://www.w3schools.com/html/html5_semantic_elements.asp
+CSS Selectors by w3schools - https://www.w3schools.com/css/css_selectors.asp
+CSS Website Layout by w3schools - https://www.w3schools.com/css/css_website_layout.asp
+HTML Accessibiltiy by w3schools - https://www.w3schools.com/html/html_accessibility.asp
+
+## License
