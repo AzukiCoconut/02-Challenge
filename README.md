@@ -26,9 +26,9 @@ Below is a screenshot of the completed website.
 ## Credits
 In the refactoring of this website I used the following resources
 
-HTML Semantic Elements by w3schools - https://www.w3schools.com/html/html5_semantic_elements.asp
-CSS Selectors by w3schools - https://www.w3schools.com/css/css_selectors.asp
-CSS Website Layout by w3schools - https://www.w3schools.com/css/css_website_layout.asp
-HTML Accessibiltiy by w3schools - https://www.w3schools.com/html/html_accessibility.asp
+- HTML Semantic Elements by w3schools - https://www.w3schools.com/html/html5_semantic_elements.asp
+- CSS Selectors by w3schools - https://www.w3schools.com/css/css_selectors.asp
+- CSS Website Layout by w3schools - https://www.w3schools.com/css/css_website_layout.asp
+- HTML Accessibiltiy by w3schools - https://www.w3schools.com/html/html_accessibility.asp
 
 ## License
