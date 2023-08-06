@@ -1,8 +1,7 @@
-# 02-Challenge
-Bootcamp Week 1 Challenge
+# Horiseon Marketing
+Horiseon Online Marketing
 
-## Description
-This is the solution provided by Matthew Tingley for the UNB Coding Bootcamp Challenge for week 1.  
+## Description 
 The purpose of this project was to take an existing website for Horiseon Online Marketing and refactor the code to take into consideration accessibility for people with disabilities.  Accessible websites make it easier for people with diabilities to use assistive technologies such as screen readers, video captions and braille keyboards. 
 The following summarizes the changes made to make this site more accessible:
   * Removed div tags infavour of more semantic HTML such as header, nav, main, section, aside, article and footer.
